@@ -34,12 +34,9 @@
 
 ![screenshot](https://raw.githubusercontent.com/je-jo/my-gallery/main/images/my-gallery.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+This one is all about grid.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+The pictures are clickable, and there's a nice hover effect.
 
 ### Built With
 
@@ -53,7 +50,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I) was to build an application to complete the given user stories.
 
-- [] User story: I can see a page following the given design
+- [x] User story: I can see a page following the given design
 
 
 ## Acknowledgements
