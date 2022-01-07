@@ -45,7 +45,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - CSS Grid
 - Mobile-first workflow
 - [Minireset](https://awesomeopensource.com/project/jgthms/minireset.css?categoryPage=29) - A tiny modern CSS reset. 
@@ -59,11 +58,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [Learn CSS Grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU) - A great video by Kevin Powell
+- [Responsive Image Gallery With Animated Captions](https://moderncss.dev/responsive-image-gallery-with-animated-captions/)
 
 ## Contact
 
